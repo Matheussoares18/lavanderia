@@ -1,0 +1,7 @@
+node_modules/
+lib/
+dist/
+src/**/*.map
+coverage
+schema.gql
+.env
